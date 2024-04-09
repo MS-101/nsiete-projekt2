@@ -42,11 +42,18 @@ Pre zvýšenie počtu trénovacích dát používame nasledujúce augmentačné 
 
 V našej práci trénujeme neurónovú sieť na segmentáciu histologických obrázkov. Učíme konvolučnú sieťklasifikovať pixely obrázka ako jednu zo 6 možných tried. Porovnávame výkon 2 rôznych architektúr neurónových sietí.
 
-### Convolution
+### UNET
 
-![](output/convolution.png)
+![](output/dilated-unet-loss.png)
 
-### Dilated convolution
+![](output/dilated-unet-epochs.png)
 
-![](output/dilated-convolution.png)
+### Dilated UNET
 
+![](output/dilated-unet-loss.png)
+
+![](output/dilated-unet-epochs.png)
+
+### Validácia
+
+![](output/results.png)
