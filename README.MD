@@ -1,4 +1,4 @@
-# Neurónové siete - projekt 1
+# Neurónové siete - projekt 2
 
 **Autori:** Martin Šváb, Tomáš Ondruš
 
